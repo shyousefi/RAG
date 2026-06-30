@@ -19,6 +19,8 @@ A simple, modular Retrieval-Augmented Generation (RAG) system built with Python,
 ## Setup
 ```bash
 # 1. Clone the repo
+git clone https://github.com/shyousefi/RAG.git
+
 # 2. Create environment
 python -m venv venv
 source venv/bin/activate    # Windows: venv\Scripts\activate
