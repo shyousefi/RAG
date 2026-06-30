@@ -30,8 +30,6 @@ This project follows the standard RAG pipeline:
 - **Retrieval**: Uses cosine similarity to find semantically similar text.
 - **Augmented Generation**: LLM answers using retrieved documents instead of just its internal knowledge.
 
----
-
 ## Features
 - Load multiple PDFs from `data/` folder
 - Automatic text splitting and embedding
